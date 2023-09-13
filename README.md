@@ -69,3 +69,34 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 "# moviebox" 
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/stephenbech/moviebox
+
+1.1 cd your-project
+
+1.2 npm install
+ 
+ ## Usage
+
+To start the development server and run the application, use the following command:
+
+```bash
+npm start
+
+## Accessing the Application
+
+Once the application is running, you can access it in your web browser at:
+
+## Stopping the Application
+
+To stop the development server and terminate the application, you can press `Ctrl + C` in the terminal where the application is running.
+
+
+

@@ -4,7 +4,7 @@
 
 @layer{
       .font{
-          font-family: DM sans;
+          font-family: sans-serif, "DM sans";
           line-height: normal;
           letter-spacing: -0.32px;
       }
